@@ -1,0 +1,1 @@
+proxychains -q -f /etc/geo-rdp.conf xfreerdp /u:Administrator /d:geosolinc.com /pth:d1142869f5babf1b4578201d31a9f374 /w:1566 /h:1000 /v:10.21.0.9
